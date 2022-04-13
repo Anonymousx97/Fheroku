@@ -1,1 +1,1 @@
-worker = bash /x.sh
+worker=bash /x.sh
